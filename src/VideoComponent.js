@@ -56,7 +56,7 @@ class Dashboard extends React.Component {
     }
     render() {
         return(
-            <div className="container mx-medium mx-auto">
+            <div id="component" className="container mx-medium mx-auto">
                 <h2>Driver Dashboard</h2>
                 <div className="grid grid-flow-col grid-rows-2 grid-cols2">
                     <div>
