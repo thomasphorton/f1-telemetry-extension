@@ -84,8 +84,8 @@
     "whitelistedConfigUrls": [],
     "whitelistedPanelUrls": []
   },
-  "frontendCommand": "",
-  "frontendFolderName": "build",
+  "frontendCommand": "npm run start",
+  "frontendFolderName": "C:\\Users\\Tom\\Repos\\f1-telemetry-extension",
   "name": "Telemetry",
   "usingRandomFrontendHostingPort": false,
   "version": 3
